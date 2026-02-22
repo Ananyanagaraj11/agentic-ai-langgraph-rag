@@ -1,0 +1,10 @@
+Artificial Intelligence is the simulation of human intelligence by machines.
+Machine Learning is a subset of AI that allows systems to learn from data.
+Deep Learning uses neural networks with many layers to learn complex patterns.
+Natural Language Processing enables computers to understand human language.
+LangGraph is a framework for building stateful multi-agent AI applications.
+FAISS is a library for efficient similarity search on dense vectors.
+RAG stands for Retrieval Augmented Generation which combines search with LLM generation.
+Vector embeddings represent text as numerical arrays that capture semantic meaning.
+A stateful agent maintains context and memory across multiple interaction steps.
+Conditional edges in LangGraph allow dynamic routing based on agent decisions.
